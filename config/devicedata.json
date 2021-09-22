@@ -1,0 +1,44 @@
+{
+  "devicedata": [{
+    "groupId": "Group001",
+    "deviceId": "soil_sensor_1",
+    "deviceType": "soil_sensor",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  },
+  {
+    "groupId": "Group001",
+    "deviceId": "soil_sensor_2",
+    "deviceType": "soil_sensor",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  },
+  {
+    "groupId": "Group001",
+    "deviceId": "soil_sensor_3",
+    "deviceType": "soil_sensor",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  },
+  {
+    "groupId": "Group001",
+    "deviceId": "soil_sensor_4",
+    "deviceType": "soil_sensor",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  },
+  {
+    "groupId": "Group001",
+    "deviceId": "soil_sensor_5",
+    "deviceType": "soil_sensor",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  },
+  {
+    "groupId": "Group001",
+    "deviceId": "water_sprinkler_1",
+    "deviceType": "water_sprinkler",
+    "PlotId": "PL001",
+    "cropId": "Type001"
+  }]
+}

@@ -1,0 +1,41 @@
+{
+  "thresholdata":[{
+    "cropId": "Type001",
+    "threshold": [
+      {
+        "diff": 5,
+        "irrigationTime": 60
+      },
+      {
+        "diff": 10,
+        "irrigationTime": 90
+      }
+    ]
+  },
+  {
+    "cropId": "Type002",
+    "threshold": [
+      {
+        "diff": 5,
+        "irrigationTime": 100
+      },
+      {
+        "diff": 10,
+        "irrigationTime": 130
+      }
+    ]
+  },
+  {
+    "cropId": "Type003",
+    "threshold": [
+      {
+        "diff": 5,
+        "irrigationTime": 150
+      },
+      {
+        "diff": 10,
+        "irrigationTime": 170
+      }
+    ]
+  }]
+}

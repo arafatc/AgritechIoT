@@ -1,0 +1,6 @@
+{
+    "cropdata": [
+    {"PlotId": "PL001", "cropId": "Type001", "temp": 21, "moisture": 50},
+    {"PlotId": "PL002", "cropId": "Type002", "temp": 19, "moisture": 40},
+    {"PlotId": "PL003", "cropId": "Type003", "temp": 22, "moisture": 65}]
+}
