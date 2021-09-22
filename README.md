@@ -27,7 +27,7 @@ The system continuously monitors the incoming soil and air readings. Based on a 
 The main features of the system are:
 
 * Soil sensor and sprinkler simulators
-* There are 5 soil sensors and 1 sprinklers, simulated in IoT core with each sensor mapped to a particular sprinkler. This can can be easily scaled to multiple devices.
+* There are 5 soil sensors and 1 sprinkler, simulated in IoT core with each sensor mapped to a particular sprinkler. This can can be easily scaled to multiple devices.
 * The IoT Core Things is publishing and receiving information (*You are free to add 1, or more, real devices with temperature and moisture sensors if you have them available)
 * Air temperature and humidity information of a representative lat/long based location of the farm are retrieved from  https://openweathermap.org/api 
 * This can be directly sent to your computing solution, via an EC2 instance, local machine, or a Lambda function
