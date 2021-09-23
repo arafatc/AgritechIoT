@@ -32,7 +32,7 @@ The main features of the system are:
 * Air temperature and humidity information of a representative lat/long based location of the farm are retrieved from  https://openweathermap.org/api 
 * This can be directly sent to your computing solution, via an EC2 instance, local machine, or a Lambda function
 * AWS IoT Core receives all the data, messaging back to the sprinklers, and passing the data further down to streaming and database entities
-* DynamoDB is used to store raw information and decisions and used DynamoDB streams to pass data to Microservice ( implemented as Lambda functions)
+* DynamoDB is used to store raw information and decisions and DynamoDB streams is used to pass data to Microservice ( implemented as Lambda functions)
 
 Advanced Features
 
