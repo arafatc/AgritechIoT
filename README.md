@@ -2,7 +2,9 @@
 Cloud based software solution integrated with soil sensors and water sprinklers. It offers advanced adaptive irrigation software that saves water and energy costs, delivers crop yield increase while conserving the environment.
 
 
-![image](https://user-images.githubusercontent.com/45310865/134349875-765062d9-e201-483c-9f65-b003fcef0e9f.png)
+![image](https://user-images.githubusercontent.com/45310865/135225865-50e19762-4d9f-46f3-baac-ba2abcdb867b.png)
+
+
 
 
 Introduction
